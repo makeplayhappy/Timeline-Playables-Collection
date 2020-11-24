@@ -1,8 +1,15 @@
 # Unity Timeline Playables Collection
 
-Custom Playables and Markers for Unity Timeline from multiple sources Unite Talks etc
+Custom Playables and Markers for Unity Timeline from multiple sources Unite Talks etc.
+These are from a range of sources, asset store, github, google drive links. 
+I think they're all kind of "Official" Unity releases in so mucha s they're written by Unity employees.
+I've gathered them together here because only the DefaultPlayables is easily accessed the rest are hidden around the ecosystem.
+A couple of these are from 2017, so quite old and some of the solutions are now obsolete in 2019.4+ with markers and signals.
 
-# Links
+### Note: this is the state of play(ables) Nov 2020.
+
+
+## Links
 * https://github.com/UnityTechnologies/ATerribleKingdom
 * https://www.youtube.com/watch?v=nn3SnfNNEmk
 
