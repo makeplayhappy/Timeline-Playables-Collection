@@ -6,8 +6,9 @@ I think they're all kind of "Official" Unity releases in so mucha s they're writ
 I've gathered them together here because only the DefaultPlayables is easily accessed the rest are hidden around the ecosystem.
 A couple of these are from 2017, so quite old and some of the solutions are now obsolete in 2019.4+ with markers and signals.
 
-### Note: this is the state of play(ables) Nov 2020.
+### Note: this is the state of play(ables) Jan 2022.
 
+**Please send pull requests if you discover worthwhile additions.**
 
 ## Links
 A Terrible Kingdom
@@ -29,3 +30,10 @@ Keijiro's funky playables
 * https://github.com/keijiro/TimelineParticleControl
 * https://github.com/keijiro/ProceduralMotionTrack
 * https://github.com/keijiro/MidiAnimationTrack
+
+Unity material switch
+* https://docs.unity3d.com/Packages/com.unity.material-switch@latest
+* https://github.com/Unity-Technologies/com.unity.material-switch
+
+
+
