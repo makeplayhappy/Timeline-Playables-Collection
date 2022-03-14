@@ -10,6 +10,7 @@ A couple of these are from 2017, so quite old and some of the solutions are now 
 
 **Please send pull requests if you discover worthwhile additions.**
 
+
 ## Links
 A Terrible Kingdom
 * https://github.com/UnityTechnologies/ATerribleKingdom
@@ -35,5 +36,8 @@ Unity material switch
 * https://docs.unity3d.com/Packages/com.unity.material-switch@latest
 * https://github.com/Unity-Technologies/com.unity.material-switch
 
+
+LipSync Timeline is my reimplementation of Rhubarb timeline, for texture switching and morph shape blending, I know its a little rough around the edges, but is functinal and can handle building a timeline from a Rhubarb XML output
+* https://github.com/gilescoope/rhubarb-timeline
 
 
