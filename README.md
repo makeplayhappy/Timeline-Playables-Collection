@@ -36,8 +36,13 @@ Unity material switch
 * https://docs.unity3d.com/Packages/com.unity.material-switch@latest
 * https://github.com/Unity-Technologies/com.unity.material-switch
 
+Layered tracks
 
-LipSync Timeline is my reimplementation of Rhubarb timeline, for texture switching and morph shape blending, I know its a little rough around the edges, but is functinal and can handle building a timeline from a Rhubarb XML output
+* From this Unity Forum post [code-samples-for-how-to-use-ilayerable](https://forum.unity.com/threads/any-code-samples-for-how-to-use-ilayerable.745751/#post-4969409) 
+* See the [Readme](Assets/LayeredTracks/LayeredTracks.md)
+
+LipSync Timeline 
+* This is my reimplementation of Rhubarb timeline, for texture switching and morph shape blending, I know its a little rough around the edges, but is functinal and can handle building a timeline from a Rhubarb XML output
 * https://github.com/gilescoope/rhubarb-timeline
 
 
